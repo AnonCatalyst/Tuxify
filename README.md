@@ -1,6 +1,6 @@
-# TuxifyTool
+# Tuxify
 
-TuxifyTool is a script designed to enhance your Termux experience by automating the setup of essential packages, tools, and configurations. This script streamlines the installation process, making it easy to get Termux configured according to your needs.
+Tuxify is a script designed to enhance your Termux experience by automating the setup of essential packages, tools, and configurations. This script streamlines the installation process, making it easy to get Termux configured according to your needs.
 
 ## Features
 
@@ -20,13 +20,13 @@ TuxifyTool is a script designed to enhance your Termux experience by automating 
 1. Clone the repository to your Termux environment:
 
     ```bash
-    git clone https://github.com/AnonCatalyst/TuxifyTool.git
+    git clone https://github.com/AnonCatalyst/Tuxify.git
     ```
 
 2. Navigate to the script directory:
 
     ```bash
-    cd TuxifyTool
+    cd Tuxify
     ```
 
 3. Make the script executable:
@@ -50,7 +50,7 @@ TuxifyTool is a script designed to enhance your Termux experience by automating 
 
 ## Contributing
 
-Feel free to contribute to TuxifyTool by reporting issues or submitting pull requests. Your feedback and contributions are highly appreciated!
+Feel free to contribute to Tuxify by reporting issues or submitting pull requests. Your feedback and contributions are highly appreciated!
 
 ## License
 
