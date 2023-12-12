@@ -15,7 +15,7 @@ PURPLE = '\033[0;35m'
 GRAY = '\033[0;37m'
 NC = '\033[0m'  # No Color
 
-TOOL_NAME = "TuxifyTool"
+TOOL_NAME = "Tuxify"
 
 def execute_command(command, message_color):
     print(f'{message_color}{command}{NC}')
